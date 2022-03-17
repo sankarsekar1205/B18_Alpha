@@ -29,6 +29,6 @@ export class NavbarComponent implements OnInit {
     // this.router.navigate(['/login'])
   }
   myOrders(){
-    this.router.navigate(['/myOrders'])
+    // this.router.navigate(['/myOrders'])
   }
 }
